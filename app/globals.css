@@ -30,13 +30,24 @@ body {
 }
 .w-85pt {
   width: 15%;
+  border-bottom: 2px solid rgb(35, 63, 128);
 }
 .min-w-15pt {
   min-width: 15%;
 }
-.h-80pt {
+/* .h-80pt {
   height: 80%;
 }
 .h-20pt {
   height: 20%;
+} */
+.w-90pt {
+  width: 90%;
+}
+.boxShadow {
+  box-shadow: 0 0 10px 0 rgb(39, 39, 39);
+}
+.grid-20-80 {
+  display: grid;
+  grid-template-rows: repeat(1, 10%);
 }

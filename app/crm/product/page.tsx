@@ -1,6 +1,6 @@
 export default function Page() {
   return (
-    <div className="h-screen w-screen bg-white flex items-start">
+    <div className="h-screen w-screen bg-pink-700 flex items-start">
       {/* col left */}
       <div className="h-full w-10 bg-left">
         <h1>home page</h1>
